@@ -1,4 +1,4 @@
-// Time complexity - o(n)
+// Time complexity - o(n*n)
 
 function same(arr1, arr2) {
   if (arr1.length !== arr2.length) {

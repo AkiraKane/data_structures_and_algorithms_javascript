@@ -1,3 +1,4 @@
+// time complexity - o(n)
 function anagram(first, second) {
   if (first.length !== second.length) {
     return false;

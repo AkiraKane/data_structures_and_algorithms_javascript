@@ -1,3 +1,4 @@
+// time complexity - o(n*n)
 function anagram(str1, str2) {
   let arr1 = str1.split("");
   let arr2 = str2.split("");
